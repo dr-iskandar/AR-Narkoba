@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="psikotropika" size="1.000000 1.383784" />
+    <ImageTarget name="rokok" size="1.000000 1.383784" />
+    <ImageTarget name="ganja" size="1.000000 1.383784" />
+    <ImageTarget name="narkoba" size="1.000000 1.391304" />
+    <ImageTarget name="ekstasi" size="1.000000 1.383784" />
+    <ImageTarget name="saya" size="1.000000 1.400438" />
+    <ImageTarget name="narkotika" size="1.000000 1.385281" />
+    <ImageTarget name="zatadiktif" size="1.000000 1.409692" />
+  </Tracking>
+</QCARConfig>
